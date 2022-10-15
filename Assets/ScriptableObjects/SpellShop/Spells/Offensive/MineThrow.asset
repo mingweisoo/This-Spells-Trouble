@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85db8b25e491a7449ac3930f421e639, type: 3}
+  m_Name: MineThrow
+  m_EditorClassIdentifier: 
+  Name: MineThrow
+  Spell: 10
+  Prefab: {fileID: 5221889468667367099, guid: 10f37bfd934c5654d8997a10b52d8002, type: 3}
+  Icon: {fileID: 2800000, guid: 6f4c1fa1b5dc641738dec766679fbc90, type: 3}
+  Description: Throws a mine away from the player that deploys into a set of 3 by
+    3 mines after a fixed distance.
+  Cost: 300
+  Upgrade: L2 - Increased Damage\nL3 - Decreased Cooldown

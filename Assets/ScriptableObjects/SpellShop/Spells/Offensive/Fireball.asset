@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85db8b25e491a7449ac3930f421e639, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  Name: Fireball
+  Spell: 0
+  Prefab: {fileID: 100004, guid: 6836f5eaa96f845c4ac0909f84272556, type: 3}
+  Icon: {fileID: 2800000, guid: 61bf7555752c75c40a2e7a29fee33988, type: 3}
+  Description: The default attack, a medium speed, straight-travelling fireball.
+  Cost: 200
+  Upgrade: L2 - Increased Damage\nL3 - Increased Range + Speed

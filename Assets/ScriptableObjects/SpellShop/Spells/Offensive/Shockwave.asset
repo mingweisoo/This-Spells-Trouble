@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85db8b25e491a7449ac3930f421e639, type: 3}
+  m_Name: Shockwave
+  m_EditorClassIdentifier: 
+  Name: Shockwave
+  Spell: 13
+  Prefab: {fileID: 1627578010501597546, guid: 59cf7fdebab374db197177a3176e1050, type: 3}
+  Icon: {fileID: 2800000, guid: e32aad571b880e549a22b1cc2f2f84a2, type: 3}
+  Description: 'A wave of force that ripples out from the player, causing damage
+    in a line. '
+  Cost: 200
+  Upgrade: L2 - Increased Damage\nL3 - Decreased Cooldown

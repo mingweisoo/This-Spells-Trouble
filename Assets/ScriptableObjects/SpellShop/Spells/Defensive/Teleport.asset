@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85db8b25e491a7449ac3930f421e639, type: 3}
+  m_Name: Teleport
+  m_EditorClassIdentifier: 
+  Name: Teleport
+  Spell: 1
+  Prefab: {fileID: 4474070891237849878, guid: 7843f8b52370e428f9874399d1553440, type: 3}
+  Icon: {fileID: 2800000, guid: b40094d475ad2a545977b133c7e1e728, type: 3}
+  Description: "Instantly teleports a fixed distance in the player\u2019s direction
+    of movement."
+  Cost: 200
+  Upgrade: L2 - Increased Distance\nL3 - Decreased Cooldown

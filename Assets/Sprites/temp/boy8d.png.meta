@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: d15e8c9d1d7c1764e89721ab8c748971
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1663680604506121240
+    second: boy8d_S_0
+  - first:
+      213: 1280246392007363784
+    second: boy8d_S_1
+  - first:
+      213: 4185200181480521193
+    second: boy8d_S_2
+  - first:
+      213: -3430877705100509309
+    second: boy8d_S_3
+  - first:
+      213: -6246530614752731097
+    second: boy8d_S_4
+  - first:
+      213: 2323072161434270528
+    second: boy8d_S_5
+  - first:
+      213: -7454039190318881658
+    second: boy8d_S_6
+  - first:
+      213: -7776143904391528719
+    second: boy8d_W_0
+  - first:
+      213: -3218463091301903191
+    second: boy8d_W_1
+  - first:
+      213: -6445353575423491502
+    second: boy8d_W_2
+  - first:
+      213: -1870762528794193720
+    second: boy8d_W_3
+  - first:
+      213: 8816692508655644809
+    second: boy8d_W_4
+  - first:
+      213: 5275502848902176760
+    second: boy8d_W_5
+  - first:
+      213: -2558893673341748877
+    second: boy8d_W_6
+  - first:
+      213: 5837125138500131941
+    second: boy8d_E_0
+  - first:
+      213: 818754242827885196
+    second: boy8d_E_1
+  - first:
+      213: 6058890960370122075
+    second: boy8d_E_2
+  - first:
+      213: 566944072790038086
+    second: boy8d_E_3
+  - first:
+      213: -8108364055352551031
+    second: boy8d_E_4
+  - first:
+      213: -4003389138848025721
+    second: boy8d_E_5
+  - first:
+      213: 5021044373393350214
+    second: boy8d_E_6
+  - first:
+      213: -9057283976288295915
+    second: boy8d_N_0
+  - first:
+      213: 8742527325681860818
+    second: boy8d_N_1
+  - first:
+      213: 6911179334502658953
+    second: boy8d_N_2
+  - first:
+      213: 8497192725232000081
+    second: boy8d_N_3
+  - first:
+      213: 4240184131060356933
+    second: boy8d_N_4
+  - first:
+      213: 8159161913726418668
+    second: boy8d_N_5
+  - first:
+      213: 2760199851609622059
+    second: boy8d_N_6
+  - first:
+      213: -1288604438446750904
+    second: boy8d_SW_0
+  - first:
+      213: -6727830972363099130
+    second: boy8d_SW_1
+  - first:
+      213: 436675583572171886
+    second: boy8d_SW_2
+  - first:
+      213: -1080418003918435156
+    second: boy8d_SW_3
+  - first:
+      213: 9126134168477813638
+    second: boy8d_SW_4
+  - first:
+      213: 5709756838059942022
+    second: boy8d_SW_5
+  - first:
+      213: 8122599348159291905
+    second: boy8d_SW_6
+  - first:
+      213: -2732387392054488889
+    second: boy8d_NW_0
+  - first:
+      213: 2973191768686412855
+    second: boy8d_NW_1
+  - first:
+      213: 7110432723841132842
+    second: boy8d_NW_2
+  - first:
+      213: -3810124854981183665
+    second: boy8d_NW_3
+  - first:
+      213: -3142010276862184201
+    second: boy8d_NW_4
+  - first:
+      213: 753708968390596290
+    second: boy8d_NW_5
+  - first:
+      213: 7499514223348596580
+    second: boy8d_NW_6
+  - first:
+      213: 3914627825999515336
+    second: boy8d_SE_0
+  - first:
+      213: 7825311788016890742
+    second: boy8d_SE_1
+  - first:
+      213: -1065096944900892750
+    second: boy8d_SE_2
+  - first:
+      213: -3747876307850171824
+    second: boy8d_SE_3
+  - first:
+      213: -2910515664642263980
+    second: boy8d_SE_4
+  - first:
+      213: 6385202633560490060
+    second: boy8d_SE_5
+  - first:
+      213: -6681499298594184126
+    second: boy8d_SE_6
+  - first:
+      213: 2614111562134093356
+    second: boy8d_NE_0
+  - first:
+      213: 3841875632075062073
+    second: boy8d_NE_1
+  - first:
+      213: 233707248549157353
+    second: boy8d_NE_2
+  - first:
+      213: -6446679342503938049
+    second: boy8d_NE_3
+  - first:
+      213: -5920643573059136038
+    second: boy8d_NE_4
+  - first:
+      213: 4509771646139574978
+    second: boy8d_NE_5
+  - first:
+      213: 5751998174587557947
+    second: boy8d_NE_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boy8d_S_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 561
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb94b40e4b69e8e0800000000000000
+      internalID: -1663680604506121240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_S_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 561
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc039c7f4954c110800000000000000
+      internalID: 1280246392007363784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_S_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 561
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edfb031461d41a30800000000000000
+      internalID: 4185200181480521193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_S_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 561
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f3daf97e21360d0800000000000000
+      internalID: -3430877705100509309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_S_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 561
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720af0d508ddf49a0800000000000000
+      internalID: -6246530614752731097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_S_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 561
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b73e992d53d3020800000000000000
+      internalID: 2323072161434270528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_S_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 561
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684e33f79deed8890800000000000000
+      internalID: -7454039190318881658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_W_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 478
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe7c689156951490800000000000000
+      internalID: -7776143904391528719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_W_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 478
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a49e30eed8b553d0800000000000000
+      internalID: -3218463091301903191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_W_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 478
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252c61572118d86a0800000000000000
+      internalID: -6445353575423491502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_W_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 478
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c05c1c4467b906e0800000000000000
+      internalID: -1870762528794193720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_W_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 478
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9807440bf1f2b5a70800000000000000
+      internalID: 8816692508655644809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_W_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 478
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff1068e3e9563940800000000000000
+      internalID: 5275502848902176760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_W_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 478
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379787ef2cbfc7cd0800000000000000
+      internalID: -2558893673341748877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_E_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 398
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c9dc51362a10150800000000000000
+      internalID: 5837125138500131941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_E_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 398
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a991a55accc5b00800000000000000
+      internalID: 818754242827885196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_E_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 398
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dbfa12a31851450800000000000000
+      internalID: 6058890960370122075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_E_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 396
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646d92261a03ed700800000000000000
+      internalID: 566944072790038086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_E_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 398
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9895a230add497f80800000000000000
+      internalID: -8108364055352551031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_E_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 398
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7837e410aca1178c0800000000000000
+      internalID: -4003389138848025721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_E_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 397
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e959541455ea540800000000000000
+      internalID: 5021044373393350214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_N_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 320
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514af7b06301e4280800000000000000
+      internalID: -9057283976288295915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_N_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 320
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0c9666842b35970800000000000000
+      internalID: 8742527325681860818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_N_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 320
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9833d0cdcf079ef50800000000000000
+      internalID: 6911179334502658953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_N_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 320
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9c7773c71ce570800000000000000
+      internalID: 8497192725232000081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_N_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 320
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547d912700928da30800000000000000
+      internalID: 4240184131060356933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_N_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 320
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee3f8c088a2b3170800000000000000
+      internalID: 8159161913726418668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_N_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 320
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26074014233e4620800000000000000
+      internalID: 2760199851609622059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SW_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 242
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843c36e2715fd1ee0800000000000000
+      internalID: -1288604438446750904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SW_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 241
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6043d6f4061f1a2a0800000000000000
+      internalID: -6727830972363099130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SW_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 241
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cd7e031226f0600800000000000000
+      internalID: 436675583572171886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SW_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 241
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac418bbc859101f0800000000000000
+      internalID: -1080418003918435156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SW_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 241
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bcca48caa86ae70800000000000000
+      internalID: 9126134168477813638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SW_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 241
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680ab66b7912d3f40800000000000000
+      internalID: 5709756838059942022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SW_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 241
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102aadf521549b070800000000000000
+      internalID: 8122599348159291905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NW_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 158
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c016dbc42c941ad0800000000000000
+      internalID: -2732387392054488889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NW_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 158
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7344ba53926e24920800000000000000
+      internalID: 2973191768686412855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NW_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 158
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a292ddfb3e45da260800000000000000
+      internalID: 7110432723841132842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NW_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 158
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47b5fc91a7bf1bc0800000000000000
+      internalID: -3810124854981183665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NW_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 158
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4b00fdc465564d0800000000000000
+      internalID: -3142010276862184201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NW_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 158
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c692fc3056b57a00800000000000000
+      internalID: 753708968390596290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NW_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 158
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fbea6b370a31860800000000000000
+      internalID: 7499514223348596580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SE_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 83
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce8f84644d835630800000000000000
+      internalID: 3914627825999515336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SE_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 82
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6737c656c97199c60800000000000000
+      internalID: 7825311788016890742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SE_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 82
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b714d3c8f30831f0800000000000000
+      internalID: -1065096944900892750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SE_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 82
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aec78ea5edcfbc0800000000000000
+      internalID: -3747876307850171824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SE_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 82
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454b9cf6c65cb97d0800000000000000
+      internalID: -2910515664642263980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SE_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 82
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40034807fbcc9850800000000000000
+      internalID: 6385202633560490060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_SE_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 82
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a54cb9cb8643a0800000000000000
+      internalID: -6681499298594184126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NE_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e7e389d90374420800000000000000
+      internalID: 2614111562134093356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NE_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b30114885115530800000000000000
+      internalID: 3841875632075062073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NE_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9d43b118b4e3300800000000000000
+      internalID: 233707248549157353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NE_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff734314b4bc886a0800000000000000
+      internalID: -6446679342503938049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NE_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad55c1a0a06a5dda0800000000000000
+      internalID: -5920643573059136038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NE_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca274a1b6de59e30800000000000000
+      internalID: 4509771646139574978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy8d_NE_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b389cf84dd333df40800000000000000
+      internalID: 5751998174587557947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

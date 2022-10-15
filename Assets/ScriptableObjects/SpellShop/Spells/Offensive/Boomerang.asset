@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85db8b25e491a7449ac3930f421e639, type: 3}
+  m_Name: Boomerang
+  m_EditorClassIdentifier: 
+  Name: Boomerang
+  Spell: 7
+  Prefab: {fileID: 838636956441470530, guid: 313024458c7978d44969ce9188f78657, type: 3}
+  Icon: {fileID: 2800000, guid: f1af0b4a740ca754bbb6f497fca9dabc, type: 3}
+  Description: Travels forward while accelerating backwards. If caught by the caster
+    when flying backwards, can be thrown again.
+  Cost: 200
+  Upgrade: L2 - Increased Speed\nL3 - Increased Range

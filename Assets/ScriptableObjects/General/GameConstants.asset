@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34780aeb24c8afc4aabef00fc4c39b1a, type: 3}
+  m_Name: GameConstants
+  m_EditorClassIdentifier: 
+  countdownTime: 3
+  playerSpeed: 0.4
+  knockbackInitial: 1.5
+  knockbackMultiplier: 0.5
+  regenWait: 5
+  regenInterval: 1
+  regenValue: 2
+  spellAnimationDuration: 0.45
+  hurtAnimationDuration: 0.53
+  playerOffset: 1
+  topLeftPosition: {x: -2.71, y: 2.71, z: 0}
+  topRightPosition: {x: 2.71, y: 2.71, z: 0}
+  bottomLeftPosition: {x: -2.71, y: -2.71, z: 0}
+  bottomRightPosition: {x: 2.71, y: -2.71, z: 0}
+  Map2P1Position: {x: 0, y: 5.4, z: 0}
+  Map2P2Position: {x: 12.5, y: -0.6, z: 0}
+  Map2P3Position: {x: 0, y: -6.6, z: 0}
+  Map2P4Position: {x: -12.5, y: -0.6, z: 0}
+  lavaDamage: 1
+  lavaDamageInverval: 0.5
+  fireballCooldown: 3
+  fireballSpeedL1L2: 1.5
+  fireballSpeedL3: 2
+  fireballForce: 20
+  fireballDestroyTime: 1.5
+  fireballDamageL1: 10
+  fireballDamageL2L3: 20
+  teleportDistanceL1: 2
+  teleportDistanceL2L3: 4
+  teleportCooldownL1L2: 7
+  teleportCooldownL3: 5
+  teleportDestroyTime: 0.5
+  lightningProjectileCooldownL1L2: 6
+  lightningProjectileCooldownL3: 4
+  lightningProjectileSpeed: 2.5
+  lightningProjectileForce: 15
+  lightningProjectileDestroyTime: 0.5
+  lightningProjectileDamageL1: 15
+  lightningProjectileDamageL2L3: 25
+  tornadoCooldownL1L2: 16
+  tornadoCooldownL3: 10
+  tornadoSpeed: 1
+  tornadoForce: 15
+  tornadoDestroyTimeL1: 5
+  tornadoDestroyTimeL2L3: 10
+  tornadoDamage: 20
+  rushDestroyTime: 1
+  rushSpeed: 5
+  rushDistanceL1: 4
+  rushDistanceL2L3: 6
+  rushCooldownL1L2: 6
+  rushCooldownL3: 4
+  arcDamageL1: 30
+  arcDamageL2L3: 40
+  arcForce: 15
+  arcForwardSpeed: 1.5
+  arcAngle: -60
+  arcCooldownL1L2: 6
+  arcCooldownL3: 4
+  arcDestroyTime: 2
+  arcDistance: 3
+  splitterDamageL1L2: 20
+  splitterDamageL3: 25
+  splitterForce: 15
+  splitterSpeed: 1
+  splitterCooldown: 7
+  splitterDestroyTime: 1
+  splitterNumberL1: 5
+  splitterNumberL2L3: 7
+  splitterStartAngle: -40
+  splitProjDamageL1L2: 7
+  splitProjDamageL3: 10
+  splitProjForce: 8
+  splitProjSpeed: 1.5
+  splitProjDestroyTime: 1.5
+  boomerangDamageL1L2: 15
+  boomerangDamageL3: 22
+  boomerangForce: 20
+  boomerangSpeedL1: 2
+  boomerangSpeedL2L3: 3
+  boomerangDestroyTime: 7
+  boomerangCooldown: 10
+  laserDamageL1: 5
+  laserDamageL2L3: 7
+  laserForceL1L2: 0
+  laserForceL3: 5
+  laserCooldown: 1
+  laserSpeed: 3
+  laserDestroyTime: 4
+  cloudCooldownL1L2: 13
+  cloudCooldownL3: 11
+  cloudDestroyTimeL1: 3
+  cloudDestroyTimeL2L3: 4
+  cloudSpeed: 2
+  mineThrowSpeed: 1.25
+  mineThrowTime: 0.25
+  mineThrowRowsL1: 3
+  mineThrowRowsL2L3: 4
+  mineThrowColumnsL1: 3
+  mineThrowColumnsL2L3: 4
+  mineThrowCooldownL1L2: 15
+  mineThrowCooldownL3: 12
+  mineGroundDamage: 7
+  mineGroundForce: 4
+  mineGroundSpeed: 1.5
+  mineGroundDestroyTime: 5
+  groundAttackDamageL1: 20
+  groundAttackDamageL2L3: 30
+  groundAttackDistance: 3
+  groundAttackDestroyTime: 3
+  groundAttackForce: 10
+  groundAttackCooldownL1L2: 10
+  groundAttackCooldownL3: 6
+  iceAttackDamageL1: 10
+  iceAttackDamageL2L3: 15
+  iceAttackDistance: 3.5
+  iceAttackDestroyTime: 2.5
+  iceAttackForce: 10
+  iceAttackCooldownL1L2: 8
+  iceAttackCooldownL3: 5
+  shockwaveCooldownL1L2: 8
+  shockwaveCooldownL3: 4
+  shockwaveSpeed: 3.5
+  shockwaveForce: 5
+  shockwaveDestroyTime: 0.5
+  shockwaveDamageL1: 8
+  shockwaveDamageL2L3: 13
+  wallDistance: 1.3
+  wallDestroyTimeL1: 8
+  wallDestroyTimeL2L3: 10
+  wallCooldownL1L2: 13
+  wallCooldownL3: 11
+  wallForce: 0.01
+  shopCountdownTime: 30
+  goldIncrement: 500
+  showButtonsDuration: 5

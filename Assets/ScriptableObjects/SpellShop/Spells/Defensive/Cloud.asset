@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85db8b25e491a7449ac3930f421e639, type: 3}
+  m_Name: Cloud
+  m_EditorClassIdentifier: 
+  Name: Cloud
+  Spell: 9
+  Prefab: {fileID: 7754848613539352731, guid: 4ef1cbc1c19d45e478c18e8824f15876, type: 3}
+  Icon: {fileID: 2800000, guid: 91debaf65ee5746b6b7bd0a3c715e85f, type: 3}
+  Description: Summons a cloud from the player that blocks enemy projectiles. Will
+    not block your own projectiles. Has a long cooldown.
+  Cost: 200
+  Upgrade: L2 - Increased Lifetime\nL3 - Decreased Cooldown
